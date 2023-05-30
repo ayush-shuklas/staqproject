@@ -1,4 +1,4 @@
-class Q2
+class Q1
     def stringcut(str)
       
         str = str[2..-1]
@@ -10,5 +10,5 @@ end
         
 
 str = "welcome"
-classobj = Q2.new
+classobj = Q1.new
 classobj.stringcut(str)
